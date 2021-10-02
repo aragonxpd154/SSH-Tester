@@ -5,11 +5,5 @@ This is a small 8-bit computer that I'm developing with a serial port and some b
 
 No SoC's or microcontrollers, everything will be done like the old days without microcontrollers like Z80 or Atmega! The goal is to create a computer as abstract as possible, for educational purposes, however nothing prevents it from being used in production.
 
-MD5
----
-
-Segue o checksum do *SSHTeste-v0.1\_Setup.exe*
-
-Valor: 12a74769b9d18b8ce50763bed6523cd4
 
 ![image](http://aragones.esy.es/8bitcomputer/image.png)
