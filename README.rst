@@ -1,9 +1,21 @@
-**COMPUTER 8 BITS**
-===============================
+*******************************
+**SSH Teste v0.1-Setup Reader**
+*******************************
 
-This is a small 8-bit computer that I'm developing with a serial port and some basic peripherals, with few usefulness in the current technological context, it's a more hobbyist and simplistic project like many projects that exist on the internet.
+O codigo-fonte (source code) incluido junto ao instalador disponivel em *...\Program Files (x86)\SSH Teste\SSHTestev0.1-interface.py*. O SSH Teste ainda esta em fase de desenvolvimento esse é um pré-alpha caso queira modificar o codigo fonte para adptar ao seu problema ou serviço...
 
-No SoC's or microcontrollers, everything will be done like the old days without microcontrollers like Z80 or Atmega! The goal is to create a computer as abstract as possible, for educational purposes, however nothing prevents it from being used in production.
+============
+MD5
+============
+Segue o checksum do *SSHTeste-v0.1_Setup.exe* 
+
+Valor: 12a74769b9d18b8ce50763bed6523cd4
+
+.. image:: http://aragones.esy.es/SSHTeste/image.png 
 
 
-![image](https://i.imgur.com/ElBRN8j.png)
+============
+Site
+============
+
+http://aragones.esy.es/SSHTeste/index.html
