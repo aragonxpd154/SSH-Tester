@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="SSH Tester" src="https://i.imgur.com/YOUR_LOGO.png"/>
+<img alt="" src="https://i.imgur.com/YOUR_LOGO.png"/>
 <br>
 SSH Tester
 </h1>
@@ -70,3 +70,45 @@ g++ main.cpp -o ssh_tester.exe \
 
 # Executar
 ./ssh_tester.exe
+
+```bash
+
+:computer: SSH Features
+
+    Lista de Hosts — Campo para inserir múltiplos servidores (host ou host:porta).
+
+    Usuário e Senha — Campos para autenticação.
+
+    Porta padrão — 22 por padrão, ajustável.
+
+    Comando pós-login — Comando a ser executado automaticamente após autenticação.
+
+    Tabela de Resultados — Mostra host, IP, status, tempo de resposta, fingerprint e STDOUT.
+
+    Botão Testar — Inicia testes.
+
+    Botão Parar — Interrompe testes em andamento.
+
+    StatusBar — Mostra mensagens de progresso.
+
+    Menu Sobre — Informações do software.
+
+💻 Development Status
+
+✅ Funcional nas duas versões.
+🚀 Melhorias planejadas:
+
+    Suporte a autenticação por chave pública
+
+    Exportação de resultados
+
+    Interface multilíngue
+
+    Timeout ajustável
+
+:memo: License
+
+Este projeto está sob a licença GPL v3.0 — veja o arquivo LICENSE.
+
+Feito com ♥ por Marcos (Obel) :wave: Entre em contato!
+
