@@ -31,7 +31,7 @@ Permite autenticação com usuário e senha, execução de comandos pós-login e
 </p>
 
 <p align="center">
-<img alt="SSH Tester Screenshot" src="https://i.imgur.com/YOUR_SCREENSHOT.png">
+<img alt="SSH Tester Screenshot" src="https://github.com/aragonxpd154/SSH-Tester/blob/master/screenshot.png">
 </p>
 
 ---
