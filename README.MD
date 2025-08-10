@@ -70,9 +70,18 @@ g++ main.cpp -o ssh_tester.exe \
 
 # Executar
 ./ssh_tester.exe
-
+````
 ```bash
+# Clonar repositório
+git clone https://github.com/aragonxpd154/SSH-Tester
+cd SSH-Tester/python_version
 
+# Instalar dependências
+pip install paramiko
+
+# Executar
+python ssh_tester.py
+````
 :computer: SSH Features
 
     Lista de Hosts — Campo para inserir múltiplos servidores (host ou host:porta).
@@ -111,4 +120,5 @@ g++ main.cpp -o ssh_tester.exe \
 Este projeto está sob a licença GPL v3.0 — veja o arquivo LICENSE.
 
 Feito com ♥ por Marcos (Obel) :wave: Entre em contato!
+
 
