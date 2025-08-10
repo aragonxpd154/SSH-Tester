@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=SSH Teste
+Comment=Aplicação para teste de servidores free SSH
+Exec=sh "/usr/bin/SSHTeste/start.sh"
+Icon=/usr/share/pixmaps/ssh-teste.png
+Terminal=false
+Type=Application
+Categories=Application;Development;
